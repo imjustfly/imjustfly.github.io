@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on mdhs.me</title>
-    <link>https://mdhs.me/tags/</link>
-    <description>Recent content in Tags on mdhs.me</description>
+    <title>Tags on mdhs.io</title>
+    <link>https://mdhs.io/tags/</link>
+    <description>Recent content in Tags on mdhs.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 04 Dec 2020 20:36:25 +0800</lastBuildDate><atom:link href="https://mdhs.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Dec 2020 20:36:25 +0800</lastBuildDate><atom:link href="https://mdhs.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>asyncio</title>
-      <link>https://mdhs.me/tags/asyncio/</link>
+      <link>https://mdhs.io/tags/asyncio/</link>
       <pubDate>Fri, 04 Dec 2020 20:36:25 +0800</pubDate>
       
-      <guid>https://mdhs.me/tags/asyncio/</guid>
+      <guid>https://mdhs.io/tags/asyncio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>python</title>
-      <link>https://mdhs.me/tags/python/</link>
+      <link>https://mdhs.io/tags/python/</link>
       <pubDate>Fri, 04 Dec 2020 20:36:25 +0800</pubDate>
       
-      <guid>https://mdhs.me/tags/python/</guid>
+      <guid>https://mdhs.io/tags/python/</guid>
       <description></description>
     </item>
     
