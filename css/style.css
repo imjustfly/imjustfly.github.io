@@ -8,7 +8,3 @@ article blockquote{border-left:4px solid;font-style:italic;margin:0;padding:0 8p
 img {display: block; max-width: 100%; height: auto;}
 figcaption {color: #888; font: 12px/1.5 monospace; text-align: center;}
 figure {margin: auto}
-@media (prefers-color-scheme: dark){
-    p > code{color: #ccc;}
-    body{color:white;background:#444}a:link{color:#5bf}a:visited{color:#ccf}
-}
