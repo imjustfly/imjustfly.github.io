@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>python on mdhs.me</title>
+    <link>https://mdhs.me/tags/python/</link>
+    <description>Recent content in python on mdhs.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 04 Dec 2020 20:36:25 +0800</lastBuildDate><atom:link href="https://mdhs.me/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>理解Python协程的本质</title>
+      <link>https://mdhs.me/posts/about-python-coroutine/</link>
+      <pubDate>Fri, 04 Dec 2020 20:36:25 +0800</pubDate>
+      
+      <guid>https://mdhs.me/posts/about-python-coroutine/</guid>
+      <description>&lt;p&gt;这两天因为一点个人原因写了点好久没碰的python，其中涉及到协程编程，上次搞的时候，它还是web框架&lt;code&gt;tornado&lt;/code&gt;特有的feature，现在已经有&lt;code&gt;async&lt;/code&gt; &lt;code&gt;await&lt;/code&gt; 关键字支持了。思考了一下其实现，回顾了下这些年的演变，觉得还有点意思。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;都是单线程，为什么原来低效率的代码用了&lt;code&gt;async&lt;/code&gt; &lt;code&gt;await&lt;/code&gt;加一些异步库就变得效率高了？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;如果你做基于python的网络或者web开发时，对于这个问题曾感到疑惑，这篇文章会给你答案。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
