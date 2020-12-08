@@ -6,7 +6,22 @@
     <description>Recent content in Dev on mdhs.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 04 Dec 2020 20:36:25 +0800</lastBuildDate><atom:link href="https://mdhs.io/categories/dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Dec 2020 18:10:04 +0800</lastBuildDate><atom:link href="https://mdhs.io/categories/dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>多活/多机房的几种实现方式与重点</title>
+      <link>https://mdhs.io/posts/ways-to-multi-dc/</link>
+      <pubDate>Mon, 07 Dec 2020 18:10:04 +0800</pubDate>
+      
+      <guid>https://mdhs.io/posts/ways-to-multi-dc/</guid>
+      <description>&lt;p&gt;当业务规模提升到一定程度之后，很多公司会考虑「多活」，也就是将自己的业务部署在多个机房，不管是同城还是异地，其中的原因包括但不限于：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;从高可用角度，公司已经不再能承担单机房故障导致的服务中断&lt;/li&gt;
+&lt;li&gt;从业务的地域属性角度，部署需要距离用户更近，来获得更迅速的用户体验&lt;/li&gt;
+&lt;li&gt;或者更直接的，单个机房已经承担不了全部的业务流量&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;等等。无论哪种情况，将要建设的机房都要求具有独立性，尤其是网络环境，机房之间通过&lt;strong&gt;专线&lt;/strong&gt;来进行连接。典型的拓扑会如下图所示：&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>理解Python协程的本质</title>
       <link>https://mdhs.io/posts/about-python-coroutine/</link>
