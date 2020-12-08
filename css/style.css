@@ -3,6 +3,7 @@ body{max-width:750px;margin:40px auto;padding:0 10px;font:14px/1.5 monospace;col
 p > code{color: #555;; padding:4px}
 pre{overflow-x: auto; line-height: 1.5; color: #666}
 article{padding:24px 0}
+article img{margin:auto}
 article blockquote{border-left:4px solid;font-style:italic;margin:0;padding:0 8px;}
 .center {display: block;margin-left: auto;margin-right: auto;width: 100%;}
 img {display: block; max-width: 100%; height: auto;}
