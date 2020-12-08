@@ -23,6 +23,26 @@
     </item>
     
     <item>
+      <title>关于我</title>
+      <link>https://mdhs.io/about/</link>
+      <pubDate>Sat, 05 Dec 2020 03:12:32 +0800</pubDate>
+      
+      <guid>https://mdhs.io/about/</guid>
+      <description>Hi，我是 _毛豆花生，coder，本科毕业于「曲阜师范大学」通信工程专业，最近几年供职于掌阅科技基础架构部门，主导双活以及数据中间件研发，现居北京。
+关键字 Golang / Python / C / Redis / 多机房 / Middleware(中间件) / 基础平台 / Linux
+工作经历 技术路线从线上业务研发转移到基础架构研发。最近的主要工作内容:
+[1] Redis 集群的双向同步以及实时切换方案的设计、实现与上线运行
+[2] MySQL 同步以及切换方案设计、实现与上线运行，以及双主方案设计
+[3] MongoDB 异地双向同步方案设计
+[4] 双机房业务实施方案设计以及其他外围配套系统设计等
+在此之前，负责主要线上业务系统的研发，同时负责以及一些业务基础模块研发，包括不限于: 落地分布式追踪，旧模块升级改造，新业务线后端架构设计等。
+价值观&amp;amp;兴趣方向 喜欢研究技术原理，乐于实践和落地新技术方案，并以此解决实际问题。喜欢简洁优雅设计以及整洁的代码实践。认为无论语言和技术作为工具都有其适合的场景。
+目前方向依然是数据相关的基础平台建设工作。对于 高效率的数据同步和分布式存储组件研发 以及 对现有的开源产品做定制化二次开发以满足特定场景的需求 等工作内容较有兴趣，NoSQL方向尤甚。
+联系方式 [Contact me] [1] Email: justfly.py@gmail.com
+[2] Wechat: justfly_py</description>
+    </item>
+    
+    <item>
       <title>理解Python协程的本质</title>
       <link>https://mdhs.io/posts/about-python-coroutine/</link>
       <pubDate>Fri, 04 Dec 2020 20:36:25 +0800</pubDate>
